@@ -1,0 +1,14 @@
+{
+  "presets": [
+    {
+      "name": "nn",
+      "parameters": {
+        "centerIntensity": 3000.0,
+        "edgeIntensity": 500.0,
+        "falloffPower": 2.0
+      },
+      "patternId": "radial"
+    }
+  ],
+  "version": 1
+}

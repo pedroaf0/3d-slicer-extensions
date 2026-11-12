@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "D:\3D Slicer 5.12.3/bin/Python\slicer\util.py", line 3572, in tryWithErrorDisplay
+    yield
+  File "C:/Users/pedro/Desktop/slice/SegmentationExporter/SegmentationExporter/SegmentationExporter.py", line 255, in onExportClicked
+    self.doExport()
+  File "C:/Users/pedro/Desktop/slice/SegmentationExporter/SegmentationExporter/SegmentationExporter.py", line 275, in doExport
+    raise ValueError(_("A segmentacao selecionada nao contem nenhum segmento."))
+ValueError: A segmentacao selecionada nao contem nenhum segmento.
